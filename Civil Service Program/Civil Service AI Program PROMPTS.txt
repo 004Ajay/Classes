@@ -1,0 +1,127 @@
+80-20 Principle (Pareto Principle)
+
+Prompt:
+
+I want to learn about [insert topic]. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
+
+eg:
+I want to learn about indian independece. Identify and share the most important 20% of learnings from this topic that will help me understand 80% of it.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Get short and insight-packed book summaries.
+
+Prompt:
+
+Summarize the book [insert book] by the author [insert author] and give me a list of themost important learnings and insights
+
+eg:
+Summarize the book Poor Economics by the author Abhijit Banerjee and Esther Duflo and give me a list of the most important learnings and insights
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+
+https://theprint.in/opinion/indians-have-a-toxic-relationship-with-overwork-culture-they-are-taught-work-is-worship/1839074/
+
+The above link is a news article, extract key information such as the main events, key players involved, relevant timelines, and any notable outcomes or impacts. Provide a concise summary highlighting the essential details and their implications. Additionally, identify any potential biases in the article and analyze how they might influence the reader's perception of the news.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Enhance your problem-solving skills.
+
+Prompt:
+
+Your role is that of a problem solver. Give me a step-by-step guide to solving [insert your problem].
+
+eg:
+Your role is that of a problem solver. Give me a step-by-step guide to solving "Poverty Related Issues".
+
+
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Get feedback from history's greatest minds.
+
+Prompt:
+
+Assume you are [insert famous person e.g. Steve Jobs]. Read my argument below and give me feedback as if you were [insert person again].
+
+[insert your argument]
+
+eg:
+
+Assume you are Steve Jobs. Read my argument below and give me feedback as if you were Steve Jobs.
+
+Crises have gripped Byju's as once high-flying tutoring startup failed to file its financial accounts on time, skipped an interest payment on its term loan, and triggered a legal fight with its creditors. Several US-based investors accused Byju's of hiding half a billion dollars, prompting lawsuits.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Improve your writing by getting feedback.
+
+prompt:
+
+[paste your writing]
+
+Proofread my writing above. Fix grammar and spelling mistakes. And make suggestions that will improve the clarity of my writing.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Learn and develop any new skill.
+
+Prompt:
+
+I want to learn/get better at [insert desired skill]. I am a complete beginner. Create a 30-day learning plan that will help a beginner like me learn and improve this skill.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Generate new ideas and overcome writer's block:
+
+Sample prompt:
+
+I am writing a blog post about [insert topic]. Give me an outline for this blog post with 10 bullet points. Also, give me 5 options for a catchy headline.
+
+"You can adapt this prompt for whatever you're writing."
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Summarize long texts and accelerate your learning:
+
+Prompt:
+
+Summarize the text below into 500 words or less. Create sections for each important point with a brief summary of that point.
+
+[insert text]
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Use stories and metaphors to aid your memory.
+
+Prompt:
+
+I am currently learning about [insert topic]. Convert the key lessons from this topic into engaging stories and metaphors to aid my memorization.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Strengthen your learning by testing yourself.
+
+Prompt:
+
+I am currently learning about [insert topic]. Ask me a series of questions that will test my knowledge. Identify knowledge gaps in my answers and give me better answers to fill those gaps.
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+IMAGE GENERATION
+
+Washington Monument Poster Image:
+
+Pixar, 8k, 4d, cinematic, theme of a space, constellation and flying dust in lite dark blue and yellow color combination. place a tall washington monument like building in the middle pointing to a yellow star, the monument is surrounded by small but bumpy mountains and celestial bodies. In one of the tall mountain there is a person standing with a victory feeling. Composition: Canon EOS 5DS R DSLR, EF 16-35mm f/2.8L III USM Lens, Resolution 50.6 megapixels, ISO Sensitivity: 200, Shutter Speed 1/60: ar 16:9
+
+x---------------------x------------------------------------------x------------------------------------------x------------------------------------------x---------------------x
+
+Flower-Butterfly Image:
+
+Make me a beautiful flowers and butterfly combination image in a rainbow theme
